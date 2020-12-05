@@ -1,0 +1,13 @@
+{
+  "name": "watermark",
+  "version": "1.22.5",
+  "description": "watermark for node",
+  "main": "index.js",
+  "repository": "git@github.com:Megi76/watermark.git",
+  "author": "Megi",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
